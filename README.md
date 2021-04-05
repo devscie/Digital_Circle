@@ -59,6 +59,7 @@ $ python
 $ pip install PyAutoGUI
 $ pip install selenium
 $ pip install openpyxl
+$ pip install Pillow
 
 # Casdo de Uso 1
 $ python Auto_Autogui.py
