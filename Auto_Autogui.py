@@ -1,7 +1,8 @@
 import pyautogui
 
 #print(pyautogui.position())
-
+pyautogui.hotkey('Win', 'm')
+pyautogui.PAUSE = 2.5
 pyautogui.hotkey('ctrl', 'r')
 pyautogui.PAUSE = 2.5
 pyautogui.typewrite("chrome.exe https://www.google.com/")
