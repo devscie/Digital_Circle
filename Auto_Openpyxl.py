@@ -42,6 +42,6 @@ sheet2.title = "Aba 2"
 
 print(workbook.sheetnames)
 
-sheet2["C3 "] = "Teste 123"
+sheet2["C3"] = "Teste 123"
 
 workbook.save(filename=filename)
